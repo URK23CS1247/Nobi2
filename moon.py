@@ -1,0 +1,1 @@
+print ("moon is beautiful")
